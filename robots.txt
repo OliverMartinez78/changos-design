@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://TU-DOMINIO.vercel.app/sitemap.xml
+Sitemap: https://changos-design.vercel.app/sitemap.xml
